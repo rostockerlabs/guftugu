@@ -1,4 +1,4 @@
-##Guftugu Documentation
+## Guftugu Documentation
 -----------------------
 
 *Guftugu Documentation*
@@ -7,21 +7,25 @@
 
 ~~Guftugu Documentation~~
 
-#####Guftu Unordered List
+##### Guftu Unordered List
+
 -List1
 -List2
 
-#####Guftugu Ordered List
+##### Guftugu Ordered List
+
 1. List 1
 2. List 2
 
-#####Image
+##### Image
+
 ![Image Title](500-300-logo.png)
 
-#####Link
+##### Link
+
 [Rostocker Labs](http://rostockerlabs.com)
 
-#####Code
+##### Code
 
 ```
 git clone
